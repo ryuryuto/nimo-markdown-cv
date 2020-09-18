@@ -1,15 +1,18 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: Dong Long Resume
+phone:
+url: tel:18369916136
+text: 18369916136
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
+  url: mailto:ukawaneko@outlook.com
+  text: rukawaneko@outlook.com
 homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: https://github.com/ryuryuto
+  text: github.com/ryuryuto
 ---
 
-# Wode **Ni**
+# **董** 龙
 
 <!--
 include contact information from the front matter
