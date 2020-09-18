@@ -2,7 +2,6 @@
 layout: cv
 title: Dong Long Resume
 phone:
-  url: tel:18369916136
   text: 18369916136
 homepage:
   url: https://github.com/ryuryuto
