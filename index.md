@@ -2,8 +2,8 @@
 layout: cv
 title: Dong Long Resume
 phone:
-url: tel:18369916136
-text: 18369916136
+  url: tel:18369916136
+  text: 18369916136
 email:
   url: mailto:ukawaneko@outlook.com
   text: rukawaneko@outlook.com
