@@ -4,15 +4,12 @@ title: Dong Long Resume
 phone:
   url: tel:18369916136
   text: 18369916136
-email:
-  url: mailto:ukawaneko@outlook.com
-  text: rukawaneko@outlook.com
 homepage:
   url: https://github.com/ryuryuto
   text: github.com/ryuryuto
 ---
 
-# **董** 龙
+# 董 龙
 
 <!--
 include contact information from the front matter
